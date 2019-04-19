@@ -5,7 +5,7 @@ console.log(`I am a string
 continues on this line`);
 
 ```
-//with strings not possible until the use of \n
+With strings not possible until the use of \n
 ```javascript
  console.log("string text1\n"
   +  "string text2");
